@@ -16,8 +16,8 @@ I'm a multi-disciplinary professional with hands-on experience across three fiel
 
 ## 🛠️ Tools & Skills
 
-**Finance & Excel**
-`Microsoft Excel` `Pivot Tables` `Financial Dashboards` `Bank Reconciliation` `Accounts Payable/Receivable`
+**Finance, Excel & Trading**
+`Microsoft Excel` `Pivot Tables` `Financial Dashboards` `Bank Reconciliation` `Accounts Payable/Receivable` `Crypto Trading` `TradingView` `Technical Chart Analysis`
 
 **Digital Marketing**
 `SEO` `Google Keyword Planner` `Ahrefs` `TubeBuddy` `Meta Ads Manager` `YouTube Monetisation` `Instagram`
@@ -30,7 +30,7 @@ I'm a multi-disciplinary professional with hands-on experience across three fiel
 ## 📌 About Me
 
 - 🔍 Open to roles in **Sustainability / ESG**, **Digital Marketing**, and **Accounting & Finance**
-- 🌍 Based in **London, UK**
+- 🌍 Based in **Leicester, United Kingdom**
 - 💼 Former sustainability consultant helping companies improve their EcoVadis scores
 - ⚡ Founded a residential EV charger installation startup
 - 📈 Experienced in running Meta ad campaigns, SEO strategy, and YouTube channel growth
@@ -42,7 +42,7 @@ I'm a multi-disciplinary professional with hands-on experience across three fiel
 Feel free to explore the repos below or reach out via LinkedIn.
 
 <!-- Replace the link below with your actual LinkedIn URL -->
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/sufyan-ali-khan/)
+(https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/sufyan-ali-khan/)
 
 ---
 
