@@ -1,6 +1,7 @@
 # Hi, I'm Sufyan 👋
 
-I'm a multi-disciplinary professional with hands-on experience across three fields — **Accounting & Finance**, **Digital Marketing**, and **Sustainability**. I use this portfolio to showcase real work, tools, and results from each area.
+I'm a multi-disciplinary professional with hands-on experience across three fields: **Accounting & Finance**, **Digital Marketing**, and **Sustainability**. 
+I use this portfolio to showcase real work, tools, and results from each area.
 
 ---
 
@@ -42,7 +43,7 @@ I'm a multi-disciplinary professional with hands-on experience across three fiel
 Feel free to explore the repos below or reach out via LinkedIn.
 
 <!-- Replace the link below with your actual LinkedIn URL -->
-(https://www.linkedin.com/in/sufyan-ali-khan/)(https://www.linkedin.com/in/sufyan-ali-khan/)
+((https://www.linkedin.com/in/sufyan-ali-khan/)
 
 ---
 
