@@ -42,7 +42,7 @@ I'm a multi-disciplinary professional with hands-on experience across three fiel
 Feel free to explore the repos below or reach out via LinkedIn.
 
 <!-- Replace the link below with your actual LinkedIn URL -->
-(https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/sufyan-ali-khan/)
+(https://www.linkedin.com/in/sufyan-ali-khan/)(https://www.linkedin.com/in/sufyan-ali-khan/)
 
 ---
 
